@@ -1,0 +1,75 @@
+C:\Users\Administrator\documents\visual studio 2017\Projects\HYSYS_RTO\HYSYS_RTO\bin\Debug\HYSYS_RTO.exe.config
+C:\Users\Administrator\documents\visual studio 2017\Projects\HYSYS_RTO\HYSYS_RTO\bin\Debug\HYSYS_RTO.exe
+C:\Users\Administrator\documents\visual studio 2017\Projects\HYSYS_RTO\HYSYS_RTO\bin\Debug\HYSYS_RTO.pdb
+C:\Users\Administrator\documents\visual studio 2017\Projects\HYSYS_RTO\HYSYS_RTO\obj\Debug\HYSYS_RTO.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2017\Projects\HYSYS_RTO\HYSYS_RTO\obj\Debug\HYSYS_RTO.Main_RTO.resources
+C:\Users\Administrator\documents\visual studio 2017\Projects\HYSYS_RTO\HYSYS_RTO\obj\Debug\HYSYS_RTO.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2017\Projects\HYSYS_RTO\HYSYS_RTO\obj\Debug\HYSYS_RTO.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2017\Projects\HYSYS_RTO\HYSYS_RTO\obj\Debug\HYSYS_RTO.exe
+C:\Users\Administrator\documents\visual studio 2017\Projects\HYSYS_RTO\HYSYS_RTO\obj\Debug\HYSYS_RTO.pdb
+C:\Users\Administrator\documents\visual studio 2017\Projects\HYSYS_RTO\HYSYS_RTO\obj\Debug\Interop.HYSYS.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\HYSYS_RTO\HYSYS_RTO\obj\Debug\HYSYS_RTO.csproj.ResolveComReference.cache
+C:\Users\lou\Desktop\接口\C-Python-and-HYSYS-master\obj\Debug\Interop.HYSYS.dll
+C:\Users\lou\Desktop\接口\C-Python-and-HYSYS-master\obj\Debug\HYSYS_RTO.csproj.ResolveComReference.cache
+C:\Users\lou\Desktop\接口\C-Python-and-HYSYS-master\obj\Debug\HYSYS_RTO.Main_RTO.resources
+C:\Users\lou\Desktop\接口\C-Python-and-HYSYS-master\obj\Debug\HYSYS_RTO.Properties.Resources.resources
+C:\Users\lou\Desktop\接口\C-Python-and-HYSYS-master\obj\Debug\HYSYS_RTO.csproj.GenerateResource.Cache
+C:\Users\lou\Desktop\接口\C-Python-and-HYSYS-master\bin\Debug\HYSYS_RTO.exe.config
+C:\Users\lou\Desktop\接口\C-Python-and-HYSYS-master\obj\Debug\HYSYS_RTO.csprojResolveAssemblyReference.cache
+C:\Users\lou\Desktop\接口\C-Python-and-HYSYS-master\bin\Debug\HYSYS_RTO.exe
+C:\Users\lou\Desktop\接口\C-Python-and-HYSYS-master\bin\Debug\HYSYS_RTO.pdb
+C:\Users\lou\Desktop\接口\C-Python-and-HYSYS-master\obj\Debug\HYSYS_RTO.exe
+C:\Users\lou\Desktop\接口\C-Python-and-HYSYS-master\obj\Debug\HYSYS_RTO.pdb
+C:\Users\lou\Desktop\仿真\C-Python-and-HYSYS-master\bin\Debug\HYSYS_RTO.exe.config
+C:\Users\lou\Desktop\仿真\C-Python-and-HYSYS-master\obj\Debug\Interop.HYSYS.dll
+C:\Users\lou\Desktop\仿真\C-Python-and-HYSYS-master\obj\Debug\HYSYS_RTO.csproj.ResolveComReference.cache
+C:\Users\lou\Desktop\仿真\C-Python-and-HYSYS-master\obj\Debug\HYSYS_RTO.exe
+C:\Users\lou\Desktop\仿真\C-Python-and-HYSYS-master\obj\Debug\HYSYS_RTO.pdb
+C:\Users\lou\Desktop\仿真\C-Python-and-HYSYS-master\bin\Debug\HYSYS_RTO.exe
+C:\Users\lou\Desktop\仿真\C-Python-and-HYSYS-master\bin\Debug\HYSYS_RTO.pdb
+C:\Users\lou\Desktop\仿真\C-Python-and-HYSYS-master\obj\Debug\HYSYS_RTO.csprojResolveAssemblyReference.cache
+C:\Users\lou\Desktop\仿真\C-Python-and-HYSYS-master\obj\Debug\HYSYS_RTO.Main_RTO.resources
+C:\Users\lou\Desktop\仿真\C-Python-and-HYSYS-master\obj\Debug\HYSYS_RTO.Properties.Resources.resources
+C:\Users\lou\Desktop\仿真\C-Python-and-HYSYS-master\obj\Debug\HYSYS_RTO.csproj.GenerateResource.Cache
+C:\Users\lou\Desktop\仿真\C1\bin\Debug\HYSYS_RTO.exe.config
+C:\Users\lou\Desktop\仿真\C1\obj\Debug\Interop.HYSYS.dll
+C:\Users\lou\Desktop\仿真\C1\obj\Debug\HYSYS_RTO.csproj.ResolveComReference.cache
+C:\Users\lou\Desktop\仿真\C1\obj\Debug\HYSYS_RTO.exe
+C:\Users\lou\Desktop\仿真\C1\obj\Debug\HYSYS_RTO.pdb
+C:\Users\lou\Desktop\仿真\C1\bin\Debug\HYSYS_RTO.exe
+C:\Users\lou\Desktop\仿真\C1\bin\Debug\HYSYS_RTO.pdb
+C:\Users\lou\Desktop\仿真\C1\obj\Debug\HYSYS_RTO.csprojResolveAssemblyReference.cache
+C:\Users\lou\Desktop\仿真\C1\obj\Debug\HYSYS_RTO.Main_RTO.resources
+C:\Users\lou\Desktop\仿真\C1\obj\Debug\HYSYS_RTO.Properties.Resources.resources
+C:\Users\lou\Desktop\仿真\C1\obj\Debug\HYSYS_RTO.csproj.GenerateResource.Cache
+C:\Users\lou\Desktop\仿真\C1\obj\Debug\Interop.MSChart20Lib.dll
+C:\Users\lou\Desktop\仿真\C1\obj\Debug\Interop.MSChartLib.dll
+C:\Users\lou\Desktop\仿真\C1\obj\Debug\Interop.MSDATASRC.dll
+C:\Users\lou\Desktop\仿真\C1#\bin\Debug\HYSYS_RTO.exe.config
+C:\Users\lou\Desktop\仿真\C1#\obj\Debug\Interop.HYSYS.dll
+C:\Users\lou\Desktop\仿真\C1#\obj\Debug\Interop.MSChart20Lib.dll
+C:\Users\lou\Desktop\仿真\C1#\obj\Debug\Interop.MSChartLib.dll
+C:\Users\lou\Desktop\仿真\C1#\obj\Debug\Interop.MSDATASRC.dll
+C:\Users\lou\Desktop\仿真\C1#\obj\Debug\HYSYS_RTO.csproj.ResolveComReference.cache
+C:\Users\lou\Desktop\仿真\C1#\obj\Debug\HYSYS_RTO.exe
+C:\Users\lou\Desktop\仿真\C1#\obj\Debug\HYSYS_RTO.pdb
+C:\Users\lou\Desktop\仿真\C1#\bin\Debug\HYSYS_RTO.exe
+C:\Users\lou\Desktop\仿真\C1#\bin\Debug\HYSYS_RTO.pdb
+C:\Users\lou\Desktop\仿真\C1#\obj\Debug\HYSYS_RTO.csprojResolveAssemblyReference.cache
+C:\Users\lou\Desktop\仿真\C1#\obj\Debug\HYSYS_RTO.Main_RTO.resources
+C:\Users\lou\Desktop\仿真\C1#\obj\Debug\HYSYS_RTO.Properties.Resources.resources
+C:\Users\lou\Desktop\仿真\C1#\obj\Debug\HYSYS_RTO.csproj.GenerateResource.Cache
+C:\Users\lou\Desktop\仿真\tho#\bin\Debug\HYSYS_RTO.exe.config
+C:\Users\lou\Desktop\仿真\tho#\obj\Debug\Interop.HYSYS.dll
+C:\Users\lou\Desktop\仿真\tho#\obj\Debug\Interop.MSChart20Lib.dll
+C:\Users\lou\Desktop\仿真\tho#\obj\Debug\Interop.MSChartLib.dll
+C:\Users\lou\Desktop\仿真\tho#\obj\Debug\Interop.MSDATASRC.dll
+C:\Users\lou\Desktop\仿真\tho#\obj\Debug\HYSYS_RTO.csproj.ResolveComReference.cache
+C:\Users\lou\Desktop\仿真\tho#\obj\Debug\HYSYS_RTO.exe
+C:\Users\lou\Desktop\仿真\tho#\obj\Debug\HYSYS_RTO.pdb
+C:\Users\lou\Desktop\仿真\tho#\bin\Debug\HYSYS_RTO.exe
+C:\Users\lou\Desktop\仿真\tho#\bin\Debug\HYSYS_RTO.pdb
+C:\Users\lou\Desktop\仿真\tho#\obj\Debug\HYSYS_RTO.csprojResolveAssemblyReference.cache
+C:\Users\lou\Desktop\仿真\tho#\obj\Debug\HYSYS_RTO.Main_RTO.resources
+C:\Users\lou\Desktop\仿真\tho#\obj\Debug\HYSYS_RTO.Properties.Resources.resources
+C:\Users\lou\Desktop\仿真\tho#\obj\Debug\HYSYS_RTO.csproj.GenerateResource.Cache
